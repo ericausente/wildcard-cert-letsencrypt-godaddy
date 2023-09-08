@@ -1,0 +1,1 @@
+# wildcard-cert-letsencrypt-godaddy
